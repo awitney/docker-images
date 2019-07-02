@@ -5,7 +5,7 @@ FROM continuumio/miniconda3
 ################## METADATA ######################
 
 LABEL software="Snippy"
-LABEL about.summary="Resistance prediction tool for TB"
+LABEL about.summary="Microbial genomic variant caller"
 LABEL about.home="https://github.com/tseemann/snippy"
 LABEL about.documentation="https://github.com/tseemann/snippy"
 LABEL license="https://github.com/tseemann/snippy"
